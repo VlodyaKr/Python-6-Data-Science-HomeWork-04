@@ -2,7 +2,7 @@
 ## HomeWork # 04
 
 [![Language](https://img.shields.io/badge/language-python-blue)](https://www.python.org)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/VlodyaKr/Python-6-Web-HomeWork-13)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/VlodyaKr/Python-6-Data-Science-HomeWork-04)
 
 ---
 # Завдання:
